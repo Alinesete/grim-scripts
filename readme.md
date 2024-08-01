@@ -1,2 +1,1 @@
-#For grim rev
-Some scripts for backup
+Scripts backup, made for grim rev
